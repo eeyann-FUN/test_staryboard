@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		094392F121CCDEF6004B833F /* sub_Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 094392F021CCDEF6004B833F /* sub_Storyboard.storyboard */; };
 		31CA92A121CCD6F200B1098A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31CA92A021CCD6F200B1098A /* AppDelegate.swift */; };
 		31CA92A321CCD6F200B1098A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31CA92A221CCD6F200B1098A /* ViewController.swift */; };
 		31CA92A621CCD6F200B1098A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 31CA92A421CCD6F200B1098A /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		094392F021CCDEF6004B833F /* sub_Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = sub_Storyboard.storyboard; sourceTree = "<group>"; };
 		31CA929D21CCD6F200B1098A /* test_staryboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test_staryboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		31CA92A021CCD6F200B1098A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		31CA92A221CCD6F200B1098A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				31CA92A021CCD6F200B1098A /* AppDelegate.swift */,
 				31CA92A221CCD6F200B1098A /* ViewController.swift */,
+				094392F021CCDEF6004B833F /* sub_Storyboard.storyboard */,
 				31CA92A421CCD6F200B1098A /* Main.storyboard */,
 				31CA92A721CCD6F500B1098A /* Assets.xcassets */,
 				31CA92A921CCD6F500B1098A /* LaunchScreen.storyboard */,
@@ -124,6 +127,7 @@
 			files = (
 				31CA92AB21CCD6F500B1098A /* LaunchScreen.storyboard in Resources */,
 				31CA92A821CCD6F500B1098A /* Assets.xcassets in Resources */,
+				094392F121CCDEF6004B833F /* sub_Storyboard.storyboard in Resources */,
 				31CA92A621CCD6F200B1098A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
